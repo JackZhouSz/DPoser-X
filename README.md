@@ -162,7 +162,8 @@ Perform face inverse kinematics and save the visualization results:
 <details>
 <summary>Face Reconstruction</summary>
 
-TBD, it's based on another open-source [repo](https://github.com/HavenFeng/photometric_optimization).
+Check this [repo](https://github.com/moonbow721/photometric_optimization) for details.
+
 </details>
 
 
@@ -420,4 +421,5 @@ Big thanks to [ScoreSDE](https://github.com/yang-song/score_sde_pytorch), [GFPos
   year={2025}
 }
 ```
+
 
